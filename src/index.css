@@ -1,0 +1,7 @@
+@import "tailwindcss";
+@import "@fontsource/ibm-plex-sans/400.css";
+
+* {
+  scroll-behavior: smooth;
+}
+
