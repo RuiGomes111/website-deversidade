@@ -1,4 +1,4 @@
-![Banner do Projeto]("./src/assets/img/dev.png)
+![Banner do Projeto](https://github.com/RuiGomes111/website-deversidade/blob/main/src/assets/img/dev.png)
 # DEVersidade
 
 DEVersidade é um projeto desenvolvido pelo **Grupo nº17 do Programa Desenvolve 2025**, com foco em **inovação, diversidade e tecnologia**. Este site apresenta o time, projetos desenvolvidos e serve como portfólio interativo do grupo.
